@@ -1,0 +1,37 @@
+# Build artifacts and archives (keep local, do not upload)
+artifacts/**
+!artifacts/
+!artifacts/README.md
+
+# Generic binaries / build outputs
+*.o
+*.ko
+*.mod.c
+*.cmd
+*.elf
+*.gdb
+*.out
+*.exe
+*.bin
+
+# Kernel module temporary files
+Module.symvers
+Modules.symvers
+modules.order
+.tmp_versions/
+
+# Editor / temp files
+*.swp
+*.swo
+*~
+
+# PetaLinux build directories (if copied into this repo)
+build/
+images/
+tmp/
+sstate-cache/
+downloads/
+components/plnx_workspace/
+
+# HW4 local build binary
+homework/HW4/HW4

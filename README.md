@@ -1,6 +1,6 @@
-﻿# Embedded System Course Project (PYNQ-Z1)
+﻿# Embedded System Course Project (PYNQ-Z2)
 
-This repository is a cleaned-up archive of an Embedded Operating Systems course project targeting **PYNQ-Z1 (Xilinx Zynq-7000 ARM/FPGA SoC)**.
+This repository is a cleaned-up archive of an Embedded Operating Systems course project targeting **PYNQ-Z2 (Xilinx Zynq-7000 ARM/FPGA SoC)**.
 
 It keeps the core materials needed to reproduce the development workflow:
 
